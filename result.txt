@@ -1,0 +1,11 @@
+SYN
+Run 1 --- A-Accuracy:0.6682   T-Cost:0.4  Time:61725.80695152283ms
+Run 2 --- A-Accuracy:0.7846   T-Cost:0.4  Time:63983.82019996643ms
+Run 3 --- A-Accuracy:0.8084   T-Cost:0.4  Time:67014.15777206421ms
+Run 4 --- A-Accuracy:0.8274   T-Cost:0.4  Time:64966.35413169861ms
+Run 5 --- A-Accuracy:0.8532   T-Cost:0.4  Time:69315.88816642761ms
+
+Average: 
+A-Accuracy: 0.78836  Standard Error: 0.03207998753116964
+T-cost:0.4  Standard Error: 0.0
+Time:65401.20544433594ms  Standard Error: 1296
